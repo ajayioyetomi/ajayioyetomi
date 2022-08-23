@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer with 4years exprience as a front-end developer and 3years exprience as a full-stack developer  .
+I am a software engineer with 4years experience as a front-end developer and 3years experience as a full-stack developer  .
 
 <!--
 **ajayioyetomi/ajayioyetomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
