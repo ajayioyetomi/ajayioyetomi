@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a software engineer with 4years of experience as a frontend developer and over 2years of experience as a fullstack developer.
 
 <!--
 **ajayioyetomi/ajayioyetomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
