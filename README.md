@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajayi_oyetomi" target="blank"><img src="https://img.shields.io/twitter/follow/ajayi_oyetomi?logo=twitter&style=for-the-badge" alt="ajayi_oyetomi" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain, solidity, Reach**
+- 🌱 I’m a **Seft-starter,** and likes to provide pragmatic solutions.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajayioyetomi](https://github.com/ajayioyetomi)
 
